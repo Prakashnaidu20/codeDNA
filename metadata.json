@@ -1,0 +1,8 @@
+{
+  "name": "CodeDNA — Temporal Engineering Decision Graph & Grounded Intelligence Platform",
+  "description": "Understand not only what the code does — but why it became that way. Grounded GraphRAG, temporal decision tracking, commit & PR evidence validation, and decision supersession detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
